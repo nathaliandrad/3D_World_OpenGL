@@ -1,0 +1,2 @@
+C:\Users\natha\OneDrive\Desktop\tutorial_8\x64\Debug\feature_complete.exe
+C:\Users\natha\OneDrive\Desktop\tutorial_8\x64\Debug\feature_complete.pdb

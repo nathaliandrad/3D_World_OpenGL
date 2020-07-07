@@ -1,0 +1,20 @@
+﻿  assets.cpp
+  colored_3D_shader_program.cpp
+  crazy_crate.cpp
+  cube_grey.cpp
+  cube_modified.cpp
+  engine.cpp
+  game_object.cpp
+  game_scene.cpp
+  human_conqueror.cpp
+  main.cpp
+  pyramid.cpp
+  robot.cpp
+  scene.cpp
+  textured_3D_shader_grey_program.cpp
+  textured_3D_shader_program.cpp
+  textured_3D_shader_program_color.cpp
+  textured_3D_shader_program_light.cpp
+  unique_obj.cpp
+  Generating Code...
+  feature_complete.vcxproj -> C:\Users\natha\OneDrive\Desktop\tutorial_8\x64\Debug\feature_complete.exe
